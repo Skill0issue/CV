@@ -1,0 +1,60 @@
+<!--  this is a comment -->
+   
+now lets see basics
+     <h1> </h1> highest font side heading
+from h1 -> h6
+    <p> </p> used for paragraphs
+for printing <h1> or <p> use entities
+ usage of lorem(num) prints in "num" number of random words
+    <b> </b> for bolding words
+    <strong> </strong> same as <b> Tip: use <b> instead
+    <i> </i> for coverting to italics
+    <em> </em> emphasise eeh same like <i>
+    <small> </small> for making it small
+    <sup> </sup> for superscript
+    <sub> </sub> for sub script
+
+        <ol> > <ol> ordered list
+        <ul> </ul> unordered list
+                   <li> </li> used for lists
+
+alt+Z for word wrap
+ Usage of Tables
+
+ <Table>
+<th> </th> <-- Table heading
+ <tr>  <-- adds a row
+    <td> <-- Cell data
+    </td>
+    <td>
+    </td>
+ </tr>   
+                             ROW SPANS  < --- used for combining rows
+                             <th rowspan="number of rows"> input </th>
+                             COL SPANS
+                             <th colspan="number of columns"> input </th>
+ </Table>
+
+
+WEB FORMS
+
+input types
+text = any string inputs
+passwords = non-visible string inputs
+radio = options choose
+checkbox = multiple options
+file = uploading files
+submit = sends data to backend
+reset = resets the from
+image = visual representaions which can be clicked
+textarea cols="" rows=""  = for paragraph inputs
+select = drop down list for selections
+    USAGE 
+        <select>
+            <option> value="" </option>
+            <option> value="" </option>
+            <option> value="" </option>
+            <option> value="" </option>
+        </select>
+
+  
